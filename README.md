@@ -1,4 +1,4 @@
-# 👋 Olá, eu Mario Fernandes
+# 👋 Olá, eu sou o Mario Fernandes
 
 Sou profissional de TI com experiência em suporte técnico, redes e infraestrutura.  
 Atualmente me aprofundando em projetos open source e colaborativos de ciência dos dados.  
