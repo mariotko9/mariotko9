@@ -31,7 +31,7 @@ Minha base técnica em infraestrutura me permite abordar novos desafios com uma 
 
 ## 💻 Minhas Habilidades Principais
 
-Aqui estão algumas das tecnologias e áreas com as quais trabalho (você pode incluir ícones das tecnologias aqui):
+Aqui estão algumas das tecnologias e áreas com as quais trabalho:
 
 <div style="display: inline_block"><br>
   
