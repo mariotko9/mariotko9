@@ -2,7 +2,7 @@
   
 # 👋 Olá! Eu sou o Mario Fernandes
   
-### Profissional de TI | Infraestrutura | Redes | Suporte TI
+### Analista de TI | Infraestrutura | Redes | Suporte TI
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=25C656&center=true&vCenter=true&width=430&lines=Foco+em+Open+Source%3BInfra+e+DevOps%3B+Ciência+de+Dados)](https://git.io/typing-svg)
   
