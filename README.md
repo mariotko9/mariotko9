@@ -25,7 +25,7 @@ Minha base técnica em infraestrutura me permite abordar novos desafios com uma 
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [Mario Fernandes](https://linkedin.com/in/mário-fernandes-it) |
-| **GitHub** | [Seu Nome de Usuário](https://github.com/Seu-Usuario) |
+| **GitHub** | [Seu Nome de Usuário](https://github.com/mariotko9) |
 
 ---
 
